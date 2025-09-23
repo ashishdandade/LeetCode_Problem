@@ -1,9 +1,9 @@
 # LeetCode Problem List
 
 ## String Problems
-- Score of a String
-- Valid Anagram
-- Is Subsequence
+- Score of a String✔️
+- Valid Anagram✔️
+- Is Subsequence✔️
 - Append Characters to String to Make Subsequence
 - Length of Last Word
 - String Matching in an Array
