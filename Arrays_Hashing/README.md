@@ -1,1 +1,133 @@
-Arrays And Hashing
+# LeetCode Problem List
+
+## String Problems
+- Score of a String
+- Valid Anagram
+- Is Subsequence
+- Append Characters to String to Make Subsequence
+- Length of Last Word
+- String Matching in an Array
+- Group Anagrams
+- Unique Email Addresses
+- Isomorphic Strings
+- Word Pattern
+- Find Words That Can Be Formed by Characters
+- Count the Number of Consistent Strings
+- Ransom Note
+- Largest 3-Same-Digit Number in String
+- Circular Sentence
+- Maximum Score After Splitting a String
+- Path Crossing
+- Minimum Changes To Make Alternating Binary String
+- Redistribute Characters to Make All Strings Equal
+- Longest Palindrome
+- Largest Substring Between Two Equal Characters
+- First Unique Character in a String
+- Find Common Characters
+- Custom Sort String
+- Encode and Decode Strings
+- Unique Length 3 Palindromic Subsequences
+- Find All Anagrams in a String
+- Find The Index of The First Occurrence in a String
+- Repeated DNA Sequences
+- Check if a String Contains all Binary Codes of Size K
+- Uncommon Words from Two Sentences
+- Word Subsets
+- Optimal Partition of String
+- Sort Characters By Frequency
+- Minimum Remove to Make Valid Parentheses
+- Text Justification
+- Shortest Palindrome
+
+## Array Problems
+- Concatenation of Array
+- Contains Duplicate
+- Replace Elements With Greatest Element On Right Side
+- Two Sum
+- Max Consecutive Ones
+- Longest Common Prefix
+- Pascals Triangle
+- Remove Element
+- Can Place Flowers
+- Majority Element
+- Maximum Difference Between Even and Odd Frequency I
+- Next Greater Element I
+- Longest Strictly Increasing or Strictly Decreasing Subarray
+- Maximum Ascending Subarray Sum
+- Find Pivot Index
+- Kth Distinct String in an Array
+- Range Sum Query - Immutable
+- Find All Numbers Disappeared in An Array
+- Find Missing and Repeated Values
+- Maximum Number of Balloons
+- Design HashSet
+- Design HashMap
+- Height Checker
+- Find Lucky Integer in an Array
+- Special Array I
+- Check if Array Is Sorted and Rotated
+- Monotonic Array
+- Divide Array Into Equal Pairs
+- Number of Good Pairs
+- Pascal's Triangle II
+- Intersection of Two Arrays
+- Number of Students Unable to Eat Lunch
+- Time Needed to Buy Tickets
+- Special Array with X Elements Greater than or Equal X
+- Count Vowel Strings in Ranges
+- Average Waiting Time
+- Sort an Array
+- Sort Colors
+- Relative Sort Array
+- Sort the People
+- Sort Array by Increasing Frequency
+- Top K Frequent Elements
+- Range Sum Query 2D Immutable
+- Product of Array Except Self
+- Minimum Number of Operations to Move All Balls to Each Box
+- Valid Sudoku
+- Longest Consecutive Sequence
+- Brick Wall
+- Best Time to Buy And Sell Stock II
+- Majority Element II
+- Minimum Index of a Valid Split
+- Subarray Sum Equals K
+- Subarray Sums Divisible by K
+- Make Sum Divisible by P
+- Number of Sub-arrays With Odd Sum
+- Grid Game
+- Wiggle Sort
+- Largest Number
+- Continuous Subarray Sum
+- Push Dominoes
+- Non Decreasing Array
+- Number of Ways to Split Array
+- Sign of An Array
+- Find the Difference of Two Arrays
+- Shifting Letters II
+- Number of Zero-Filled Subarrays
+- Champagne Tower
+- Sum of Absolute Differences in a Sorted Array
+- Convert an Array Into a 2D Array With Conditions
+- Minimum Numbers of Operations to Make Array Empty
+- Divide Array Into Arrays With Max Difference
+- Sequential Digits
+- Sort the Jumbled Numbers
+- Find Polygon with the Largest Perimeter
+- Contiguous Array
+- Count Number of Bad Pairs
+- Find All Duplicates in an Array
+- Find the Length of the Longest Common Prefix
+- Count Unguarded Cells in the Grid
+- Number of Submatrices that Sum to Target
+- First Missing Positive
+
+## Design Problems
+- Design Parking System
+- Design Underground System
+- Minimum Penalty for a Shop
+- Design a Food Rating System
+- Encode and Decode TinyURL
+- Insert Delete Get Random O(1)
+- Naming a Company
+
