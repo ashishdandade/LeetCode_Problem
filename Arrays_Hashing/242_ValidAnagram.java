@@ -11,7 +11,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
             charArr[s.charAt(i)-'a']++;
             charArr[t.charAt(i)-'a']--;
-           }
+           } 
          for(int i:charArr){
             if(i!=0) return false;
         }
